@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="7fe6cfa3-ce3e-46b5-a2c6-7f8512187970" />
+  </component>
+  <component name="Kotlin2JvmCompilerArguments">
+    <option name="jvmTarget" value="17" />
+  </component>
+  <component name="PrettierConfiguration">
+    <option name="myRunOnReformat" value="true" />
+  </component>
+</project>
