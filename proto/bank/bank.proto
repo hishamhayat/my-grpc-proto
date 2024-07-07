@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package bank;
+
+import "proto/bank/balance.proto";
+
+option go_package = "github.com/hishamhayat/my-grpc-proto/genproto/go/bank";
+
+service BankService{
+  rpc GetCurrentBalance (CurrentBalanceRequest) returns (CurrentBalanceResponse);
+}
