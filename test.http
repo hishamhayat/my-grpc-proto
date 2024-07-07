@@ -1,0 +1,15 @@
+GRPC localhost:9090/hello.HelloService/SayHello
+
+{
+  "name": "someone",
+  "age": 12
+}
+
+###
+
+GRPC localhost:9090/hello.HelloService/SayManyHellos
+
+{
+  "name": "someone",
+  "age": 12
+}
